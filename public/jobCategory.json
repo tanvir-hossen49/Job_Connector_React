@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ax200ab",
+    "logo": "https://www.jobs.ie/job-talk/wp-content/uploads/graph_calculator_logo-768x512.jpg",
+    "name": "Account & Finance",
+    "jobs_available": 10
+  },
+  {
+    "id": "ax300ab",
+    "logo": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3JlYXRpdmUlMjBkZXNpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+    "name": "Creative Design",
+    "jobs_available": 5
+  },
+  {
+    "id": "ax400ab",
+    "logo": "https://plus.unsplash.com/premium_photo-1664475926084-d20248544896?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFya2V0aW5nJTIwYW5kJTIwc2FsZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+    "name": "Marketing & Sales",
+    "jobs_available": 20
+  },
+  {
+    "id": "ax500ab",
+    "logo": "https://plus.unsplash.com/premium_photo-1664301630457-f3a4cb1d38ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8RW5naW5lZXJpbmclMjBKb2J8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+    "name": "Engineering Job",
+    "jobs_available": 15
+  }
+]

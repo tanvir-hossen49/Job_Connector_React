@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/272px-Google_2015_logo.svg.png?20160213081640",
+    "jobTitle": "Software Engineer",
+    "companyName": "Google LLC",
+    "remoteOrOnsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "fulltimeOrParttime": "Fulltime",
+    "salary": "$100,000 - $120,000",
+    "jobDescription": "We are looking for a passionate Software Engineer to design, develop and install software solutions.Software Engineer responsibilities include gathering user requirements, defining system functionality and writing code in various languages, like Java, Ruby on Rails or .NET programming languages (e.g. C++ or JScript.NET.) Our ideal candidates are familiar with the software development life cycle (SDLC) from preliminary system analysis to tests and deployment.Ultimately, the role of the Software Engineer is to build high-quality, innovative and fully performing software that complies with coding standards and technical design.",
+    "jobResponsibility": "Develop and maintain software applications, collaborate with cross-functional teams, participate in code review, and contribute to design and architecture decisions.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "3+ years of experience in software development",
+    "contactInformation": {
+      "phone": "123-456-7890",
+      "email": "hr@acmecorp.com"
+    }
+  },
+  {
+    "id": 2,
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logonetflix.png/800px-Logonetflix.png",
+    "jobTitle": "Marketing Manager",
+    "companyName": "Netflix",
+    "remoteOrOnsite": "Onsite",
+    "location": "New York, NY",
+    "fulltimeOrParttime": "Fulltime",
+    "salary": "$80,000 - $100,000",
+    "jobDescription": "We are seeking an innovative marketing manager to promote our company's brand and services. In this role, you will be optimizing our marketing strategies, managing the marketing department's budget and staff, as well as preparing forecasts.To ensure success, you will need extensive knowledge of marketing strategies and the ability to identify new business leads. An outstanding marketing manager will be someone whose expertise translates into increased brand awareness and profitability.",
+    "jobResponsibility": "Develop and execute marketing campaigns, manage social media presence, oversee marketing budget, and collaborate with cross-functional teams.",
+    "educationalRequirements": "Bachelor's degree in marketing, finance, business administration, or similar.",
+    "experiences": "5+ years of experience in marketing",
+    "contactInformation": {
+      "phone": "555-555-5555",
+      "email": "careers@globexcorp.com"
+    }
+  },
+  {
+    "id": 3,
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/603px-Amazon_logo.svg.png",
+    "jobTitle": "Sales Representative",
+    "companyName": "Amazon",
+    "remoteOrOnsite": "Remote",
+    "location": "Any",
+    "fulltimeOrParttime": "Fulltime",
+    "salary": "$60,000 - $80,000",
+    "jobDescription": "We’re looking for a results-driven Sales Representative with excellent interpersonal skills to actively seek out and engage customer prospects.",
+    "jobResponsibility": "Prospect and qualify leads, manage sales pipeline, develop and deliver sales presentations, and negotiate and close deals.",
+    "educationalRequirements": "Bachelor's degree in Business or related field",
+    "experiences": "2+ years of experience in sales",
+    "contactInformation": {
+      "phone": "123-456-7890",
+      "email": "careers@abccompany.com"
+    }
+  },
+  {
+    "id": 4,
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/272px-Google_2015_logo.svg.png?20160213081640",
+    "jobTitle": "Technical Database Engineer",
+    "companyName": "Google LLC",
+    "remoteOrOnsite": "Remote",
+    "location": "Noakhali, Bangladesh",
+    "fulltimeOrParttime": "Fulltime",
+    "salary": "$80,000 - $100,000",
+    "jobDescription": "We are looking for an experienced data engineer to join our team. You will use various methods to transform raw data into useful data systems. For example, you’ll create algorithms and conduct statistical analysis. Overall, you’ll strive for efficiency by aligning data systems with business goals. To succeed in this data engineering position, you should have strong analytical skills and the ability to combine data from different sources. Data engineer skills also include familiarity with several programming languages and knowledge of learning machine methods. If you are detail-oriented, with excellent organizational skills and experience in this field, we’d like to hear from you. ",
+    "jobResponsibility": "Designing, implementing, and maintaining database systems: You will work with the development team to design and implement database systems that are efficient and reliable. You will also be responsible for ensuring that the systems are maintained and updated regularly.Collaborating with cross-functional teams: You will work closely with cross-functional teams, including developers, system administrators, and network engineers, to ensure that the database systems are integrated and functioning correctly.",
+    "educationalRequirements": "Bachelor's degree in information systems, information technology, computer science, or similar.",
+    "experiences": "A minimum of 2 years experience in database engineering",
+    "contactInformation": {
+      "phone": "123-756-7890",
+      "email": "cbreers@abccompany.com"
+    }
+  },
+  {
+    "id": 5,
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZPoymlEUvuI36FaXKeW04xyL38RYKtVBOA&usqp=CAU",
+    "jobTitle": "Financial Accountant",
+    "companyName": "AliBaba",
+    "remoteOrOnsite": "Onsite",
+    "location": "Delhi, India",
+    "fulltimeOrParttime": "Fulltime",
+    "salary": "$80,000 - $100,000",
+    "jobDescription": "We are looking for an experienced Financial Accountant to monitor all financial data and prepare accurate statements for our company.Financial Accountant responsibilities include budgeting, managing tax payments and performing internal audits. You will act as a consultant for senior managers, conducting cost and revenues analyses. To be qualified for this role, you should have a degree in Accounting and relevant work experience.Ultimately, you will ensure all our accounting transactions comply with the law and support our company’s investments.",
+    "jobResponsibility": "Prepare monthly, quarterly and annual statements (balance sheets and income statements),Forecast costs and revenues, Prepare budgets (for the entire company and by department).",
+    "educationalRequirements": "Bachelor's degree in information systems, information technology, computer science, or similar.",
+    "experiences": "BSc degree in Accounting, Finance or relevant field",
+    "contactInformation": {
+      "phone": "133-756-7880",
+      "email": "alibaba@abccompany.com"
+    }
+  },
+  {
+    "id": 6,
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIERPHm4zAuuI8KY4Mwm5E2xxdaGf1y0Bz5w&usqp=CAU",
+    "jobTitle": "Automotive Designer",
+    "companyName": "TESLA",
+    "remoteOrOnsite": "Remote",
+    "location": "Noakhali, Bangladesh",
+    "fulltimeOrParttime": "Fulltime",
+    "salary": "$100,000 - $110,000",
+    "jobDescription": "Automotive designers design the appearance, the components, and the ergonomics of automobiles and other road vehicles, which may include vans, trucks, motorcycles, and buses. The functional development of a vehicle, including the mechanical, electrical, software, electronic, and safety aspects, are usually completed by a team of automotive engineers, whereas the aesthetics and appearance of the vehicle are left in the talented and artistic hands of an automotive designer. Most commonly, automotive designers are industrial designers with an art background and creative sensibility.",
+    "jobResponsibility": "Coordinating and managing multiple projects in varying stages of development; from initial architectural contact to the completed installation",
+    "educationalRequirements": "A strong visual sense and the ability to dictate those ideas in a three dimensions context.Strong computer skills and a familiarity with AutoCAD and CATIA modelling software    ",
+    "experiences": "A minimum of 2 years experience in database engineering",
+    "contactInformation": {
+      "phone": "123-746-7800",
+      "email": "tesla@abccompany.com"
+    }
+  }
+]

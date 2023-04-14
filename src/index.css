@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 1280px;
+  margin: 0 auto;
+  font-family: "Manrope", sans-serif;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 800;
+  color: #1a1919;
+}
+
+p {
+  color: #757575;
+}
+
+.my-container {
+  @apply px-6 py-5 md:px-20;
+}
+.gradient {
+  @apply bg-gradient-to-r from-[#7E90FE] to-[#9873FF];
+}
+.text-gradient {
+  @apply gradient bg-clip-text text-transparent;
+}
+.active {
+  @apply gradient text-gradient font-semibold;
+}
+.default {
+  @apply font-semibold text-base text-[#757575];
+}
+.btn-gradient {
+  @apply gradient text-white font-extrabold rounded-lg;
+}
